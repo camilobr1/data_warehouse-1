@@ -1,8 +1,8 @@
-# Data Warehouse🏠
+# Data Warehouse
 
 Este proyecto consiste en la creación de herramienta que permite a una compañía de Marketing administrar todos los contactos de sus clientes para sus campañas.
 
-## Construido con 🛠️
+## Construido con 
 
 - HTML
 - CSS
@@ -15,16 +15,16 @@ Este proyecto consiste en la creación de herramienta que permite a una compañ�
 - Postman
 - Swagger
 
-## Documentación 📗
+## Documentación 
 
 Archivo `spec.yaml` Para verlo mejor, puede copiarlo y abrirlo con [Swagger](https://editor.swagger.io/)
 
 ## Instalación ⚙
 
-Clonar el repositorio de [GitHub](https://github.com/saveasfabri/P4_DataWarehouse-fh.git)
+Clonar el repositorio de [GitHub](https://github.com/camilobr1/data_warehouse.git)
 
 ```
-git clone https://github.com/saveasfabri/P4_DataWarehouse-fh.git
+git clone https://github.com/camilobr1/data_warehouse.git
 ```
 
 ## Dependencias 🟢
@@ -41,13 +41,13 @@ npm install cors
 npm install nodemon
 ```
 
-## Base de datos SQL 🐬
+## Base de datos SQL 
 
 1. Instalar [Xamp](https://www.apachefriends.org/es/index.html) y abrir el panel de control, iniciando MySQL y Apache.
 2. Abrir el navegador con localhost, phpmyadmin y en sql crear el schema "data_warehouse".
 3. Replicar las tablas del documento.
 
-## Inicio del servidor 🔩
+## Inicio del servidor 
 
 En package.json reemplazar la linea:
 
@@ -67,11 +67,11 @@ Posicionarse en la carpeta _Backend_ en una terminal y ejecutar el siguiente com
 npm run dev
 ```
 
-## Autores ✒️
+## Autores 
 
-- **Conrado Vargas** - _Desarrolo web_ - [justmeconrado](https://github.com/justmeconrado)
+- **Conrado Vargas** - _Desarrolo web_ - [Camilo Bravi](https://github.com/camilobr1)
 - **Acámica** - _Recursos y UI_ - [Acámica](https://github.com/acamica)
 
-## Repositorio 📚
+## Repositorio 
 
-- [GitHub](https://github.com/saveasfabri/P4_DataWarehouse-fh.git)
+- [GitHub](https://github.com/camilobr1/data_warehouse.git)
